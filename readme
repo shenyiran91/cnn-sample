@@ -1,0 +1,5 @@
+1. compile and run
+    cmake .
+    make
+    ./cnn_test
+
