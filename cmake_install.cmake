@@ -1,4 +1,4 @@
-# Install script for directory: /Users/yiranshen/Desktop/hello_cnn-master
+# Install script for directory: /Users/yiranshen/Desktop/cnn-sample
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/yiranshen/Desktop/hello_cnn-master/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/yiranshen/Desktop/cnn-sample/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
